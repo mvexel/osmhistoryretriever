@@ -1,0 +1,488 @@
+TOSMHistoryRetriever
+v7
+r0
+t300751548.183786
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Info.plist" OSMHistoryRetriever-Info.plist
+cCopyStringsFile "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch.gch OSMHistoryRetriever_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/main.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetrieverAppDelegate.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGeometry.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMNode.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMWay.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMRelation.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/Coordinate.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGetterController.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/BoundingBox.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMMap.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/ISO8601DateFormatter.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever" normal x86_64
+cTouch "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.h
+c000000004C3CE1E2000000000000027C
+t1279058402
+s636
+i<Cocoa/Cocoa.h>
+i"Coordinate.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m
+c000000004C3CE31100000000000006EF
+t1279058705
+s1775
+i"BoundingBox.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.h
+c000000004C3CE1E20000000000000185
+t1279058402
+s389
+i<Cocoa/Cocoa.h>
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m
+c000000004C3CE1E20000000000000206
+t1279058402
+s518
+i"Coordinate.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/InfoPlist.strings
+c000000004C3CE1E2000000000000002D
+t1279058402
+s45
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib
+c000000004C3CE1E2000000000003788A
+t1279058402
+s227466
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.h
+c000000004C3CE1E20000000000000B90
+t1279058402
+s2960
+i<Foundation/Foundation.h>
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m
+c000000004C3CE1E20000000000005B9F
+t1279058402
+s23455
+i<Foundation/Foundation.h>
+i"ISO8601DateFormatter.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.h
+c000000004C3CE1E20000000000000275
+t1279058402
+s629
+i<Cocoa/Cocoa.h>
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m
+c000000004C3CE1E20000000000000168
+t1279058402
+s360
+i"OSMGeometry.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.h
+c000000004C3CE1E2000000000000038B
+t1279058402
+s907
+i<Cocoa/Cocoa.h>
+i"Coordinate.h"
+i"BoundingBox.h"
+i"OSMMap.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m
+c000000004C3CE30F00000000000010DD
+t1279058703
+s4317
+i"OSMGetterController.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.h
+c000000004C3CE1E2000000000000015D
+t1279058402
+s349
+i<Cocoa/Cocoa.h>
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m
+c000000004C3CE1E2000000000000019E
+t1279058402
+s414
+i"OSMHistoryRetrieverAppDelegate.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetriever_Prefix.pch
+c000000004C3CE1E200000000000000A9
+t1279058402
+s169
+i<Cocoa/Cocoa.h>
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.h
+c000000004C3CE1E200000000000002CF
+t1279058402
+s719
+i<Cocoa/Cocoa.h>
+i"OSMNode.h"
+i"OSMWay.h"
+i"OSMRelation.h"
+i"ISO8601DateFormatter.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m
+c000000004C3CE3110000000000000A26
+t1279058705
+s2598
+i"OSMMap.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.h
+c000000004C3CE1E20000000000000154
+t1279058402
+s340
+i<Cocoa/Cocoa.h>
+i"OSMGeometry.h"
+i"Coordinate.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m
+c000000004C3CE1E2000000000000014A
+t1279058402
+s330
+i"OSMNode.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.h
+c000000004C3CE1E200000000000000F6
+t1279058402
+s246
+i<Cocoa/Cocoa.h>
+i"OSMGeometry.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m
+c000000004C3CE1E200000000000000D1
+t1279058402
+s209
+i"OSMRelation.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.h
+c000000004C3CE1E2000000000000013E
+t1279058402
+s318
+i<Cocoa/Cocoa.h>
+i"OSMGeometry.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m
+c000000004C3CE1E200000000000000D9
+t1279058402
+s217
+i"OSMWay.h"
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app
+t1279058748
+s102
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Info.plist
+t1279058706
+s922
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever
+t1279058746
+s76848
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/PkgInfo
+t1279058706
+s8
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1279058708
+s92
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/MainMenu.nib
+t1279058710
+s49520
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/BoundingBox.o
+t1279058743
+s15088
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/Coordinate.o
+t1279058742
+s12124
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/ISO8601DateFormatter.o
+t1279058743
+s54856
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGeometry.o
+t1279058742
+s16764
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGetterController.o
+t1279058743
+s41976
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetriever.LinkFileList
+c000000004C3CE312000000000000070F
+t1279058706
+s1807
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetrieverAppDelegate.o
+t1279058741
+s21448
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMMap.o
+t1279058743
+s30540
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMNode.o
+t1279058742
+s8392
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMRelation.o
+t1279058742
+s5548
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMWay.o
+t1279058742
+s8384
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/main.o
+t1279058741
+s5040
+
+N/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m
+c000000004C3CE1E20000000000000107
+t1279058402
+s263
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch.gch
+t1279058736
+s54265616
+
+NOSMHistoryRetriever-Info.plist
+c000000004C3CE1E200000000000003EA
+t1279058402
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300751505#300751506#0(0"0(0#1#0"7311142548648780800#0"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/BoundingBox.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751542.997182
+e300751543.332771
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/BoundingBox.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m300751542#300751543#0(0"0(0#0#76"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m8603986080#1990"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/BoundingBox.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/BoundingBox.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/Coordinate.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751542.802113
+e300751542.997057
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/Coordinate.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m300751542#300751542#0(0"0(0#0#75"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m8606414112#1988"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/Coordinate.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/Coordinate.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/ISO8601DateFormatter.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751543.411522
+e300751543.860591
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/ISO8601DateFormatter.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m300751543#300751543#0(0"0(0#0#85"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m8605812672#2008"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/ISO8601DateFormatter.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/ISO8601DateFormatter.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGeometry.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751541.869315
+e300751542.497403
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGeometry.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m300751541#300751542#0(0"0(0#0#76"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m8607214432#1990"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGeometry.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGeometry.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGetterController.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751542.820804
+e300751543.411310
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGetterController.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m: In function '-[OSMGetterController selectOutputType:]':
+o/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m:66: warning: unused variable 'selCell'
+lSLF07#2@92"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m300751542#300751543#0(266"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m: In function '-[OSMGetterController selectOutputType:]':/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m:66: warning: unused variable 'selCell'1(22@25"Unused variable 'selCell'300751543#142#124#0(6@84"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m300751503#66#0#66#0#19"unused variable '*'0(0#0#84"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m8605879904#2006"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMGetterController.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMGetterController.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetrieverAppDelegate.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751537.057427
+e300751541.961480
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetrieverAppDelegate.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m300751537#300751541#0(0"0(0#0#95"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m8606896000#2028"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetrieverAppDelegate.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetrieverAppDelegate.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMMap.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751543.332895
+e300751543.570339
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMMap.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m300751543#300751543#0(0"0(0#0#71"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m8606820224#1980"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMMap.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMMap.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMNode.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751541.961609
+e300751542.440034
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMNode.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m300751541#300751542#0(0"0(0#0#72"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m8607554816#1982"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMNode.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMNode.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMRelation.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751542.497532
+e300751542.820684
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMRelation.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m300751542#300751542#0(0"0(0#0#76"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m8606071200#1990"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMRelation.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMRelation.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMWay.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751542.440155
+e300751542.801994
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMWay.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m300751542#300751542#0(0"0(0#0#71"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m8606503104#1980"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMWay.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMWay.o"0#
+
+CCompileC build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/main.o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751537.056073
+e300751541.869125
+r1
+xCompileC
+xbuild/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/main.o
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m300751537#300751541#0(0"0(0#0#69"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m8601233760#1976"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -include /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/main.m" -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib"
+s300751506.335997
+e300751510.730792
+r1
+xCompileXIB
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib:544: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib300751506#300751510#0(176"/* com.apple.ibtool.document.notices *//Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib:544: note: This view is clipping its content.1(13@34"This view is clipping its content.300751510#18446744073709551615#0#0(6@89"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib300751202#544#0#544#0#0"0(0#0#89"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib8607219584#454"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/MainMenu.nib" "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s300751506.322972
+e300751508.205723
+r1
+xCopyStringsFile
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings300751506#300751508#0(0"0(0#0#94"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/English.lproj/InfoPlist.strings8604432512#429"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Resources/English.lproj"0#
+
+CLd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever" normal x86_64
+s300751543.861235
+e300751547.938840
+r1
+xLd
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever
+xnormal
+xx86_64
+lSLF07#2@138"Link /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever300751543#300751547#0(0"0(0#0#0"8607365792#732"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" -filelist "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/Objects-normal/x86_64/OSMHistoryRetriever.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/MacOS/OSMHistoryRetriever"0#
+
+CProcessInfoPlistFile "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Info.plist" OSMHistoryRetriever-Info.plist
+s300751506.158825
+e300751506.322829
+r1
+xProcessInfoPlistFile
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Info.plist
+xOSMHistoryRetriever-Info.plist
+lSLF07#2@38"Process OSMHistoryRetriever-Info.plist300751506#300751506#0(0"0(0#0#93"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetriever-Info.plist7586398592511715328#424"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    builtin-infoPlistUtility OSMHistoryRetriever-Info.plist -genpkginfo "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch.gch OSMHistoryRetriever_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300751510.731082
+e300751537.055818
+r1
+xProcessPCH
+x/var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch.gch
+xOSMHistoryRetriever_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile OSMHistoryRetriever_Prefix.pch300751510#300751537#0(0"0(0#0#93"/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetriever_Prefix.pch8607590112#1844"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-generated-files.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-own-target-headers.hmap" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-all-target-headers.hmap" -iquote "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/OSMHistoryRetriever-project-headers.hmap" "-F/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/include" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources/x86_64" "-I/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/OSMHistoryRetriever.build/Debug/OSMHistoryRetriever.build/DerivedSources" -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/OSMHistoryRetriever_Prefix.pch" -o /var/folders/EL/ELZY8NFzFGiS210VxbWeLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OSMHistoryRetriever_Prefix-ddfvglmdkmfppkcdbrvrzcpyqfeo/OSMHistoryRetriever_Prefix.pch.gch0#
+
+CTouch "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app"
+s300751547.939007
+e300751548.183722
+r1
+xTouch
+x/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app
+lSLF07#2@104"Touch /Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app300751547#300751548#0(0"0(0#0#0"8606388064#195"    cd "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve"    /usr/bin/touch -c "/Volumes/soepeltjes/Dropbox/iPhone (Geodan)/OSMHistoryRetrieve/build/Debug/OSMHistoryRetriever.app"0#
+
